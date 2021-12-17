@@ -1,3 +1,9 @@
 *.gz
 *.txt
-x.sh
+x.*
+Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv
+Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.tsv
+RKI_COVID19.csv
+RKI_COVID19.tsv
+nohup.out
+!btw17_wbz_zweitstimmen.txt
