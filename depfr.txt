@@ -1,0 +1,107 @@
+Nr.;Département;W.;Region;Präfektur;ISO;EW;();km²;EW /km² 
+01;Ain;;Auvergne-Rhône-Alpes;Bourg-en-Bresse;FR-01;643.350; (2017);5.762,4;111,6 
+02;Aisne;;Hauts-de-France;Laon;FR-02;534.490; (2017);7.369,1;72,5 
+03;Allier;;Auvergne-Rhône-Alpes;Moulins;FR-03;337.988; (2017);7.340,1;46 
+04;Alpes-de-Haute-Provence;;Provence-Alpes-Côte d’Azur;Digne-les-Bains;FR-04;163.915; (2017);6.925,2;23,7 
+05;Hautes-Alpes;;Provence-Alpes-Côte d’Azur;Gap;FR-05;141.284; (2017);5.548,7;25,5 
+06;Alpes-Maritimes;;Provence-Alpes-Côte d’Azur;Nizza;FR-06;1.083.310; (2017);4.298,6;252 
+07;Ardèche;;Auvergne-Rhône-Alpes;Privas;FR-07;325.712; (2017);5.528,6;58,9 
+08;Ardennes;;Grand Est;Charleville-Mézières;FR-08;273.579; (2017);5.229,4;52,3 
+09;Ariège;;Occitanie;Foix;FR-09;153.153; (2017);4.889,9;31,3 
+10;Aube;;Grand Est;Troyes;FR-10;310.020; (2017);6.004,2;51,6 
+11;Aude;;Occitanie;Carcassonne;FR-11;370.260; (2017);6.139,0;60,3 
+12;Aveyron;;Occitanie;Rodez;FR-12;279.206; (2017);8.735,1;32 
+13;Bouches-du-Rhône;;Provence-Alpes-Côte d’Azur;Marseille;FR-13;2.024.162; (2017);5.087,5;397,9 
+14;Calvados;;Normandie;Caen;FR-14;694.002; (2017);5.547,9;125,1 
+15;Cantal;;Auvergne-Rhône-Alpes;Aurillac;FR-15;145.143; (2017);5.726,0;25,3 
+16;Charente;;Nouvelle-Aquitaine;Angoulême;FR-16;352.335; (2017);5.956,0;59,2 
+17;Charente-Maritime;;Nouvelle-Aquitaine;La Rochelle;FR-17;644.303; (2017);6.863,8;93,9 
+18;Cher;;Centre-Val de Loire;Bourges;FR-18;304.256; (2017);7.235,0;42,1 
+19;Corrèze;;Nouvelle-Aquitaine;Tulle;FR-19;241.464; (2017);5.856,8;41,2 
+2A;Corse-du-Sud (per 2018 aufgelöst);;Korsika;Ajaccio;FR-2A;157.249; (2017);4.014,2;39,2 
+2B;Haute-Corse (per 2018 aufgelöst);;Korsika;Bastia;FR-2B;177.689; (2017);4.665,6;38,1 
+21;Côte-d’Or;;Bourgogne-Franche-Comté;Dijon;FR-21;533.819; (2017);8.763,2;60,9 
+22;Côtes-d’Armor;;Bretagne;Saint-Brieuc;FR-22;598.814; (2017);6.877,6;87,1 
+23;Creuse;;Nouvelle-Aquitaine;Guéret;FR-23;118.638; (2017);5.565,4;21,3 
+24;Dordogne;;Nouvelle-Aquitaine;Périgueux;FR-24;413.606; (2017);9.060,0;45,7 
+25;Doubs;;Bourgogne-Franche-Comté;Besançon;FR-25;539.067; (2017);5.233,6;103 
+26;Drôme;;Auvergne-Rhône-Alpes;Valence;FR-26;511.553; (2017);6.530,0;78,3 
+27;Eure;;Normandie;Évreux;FR-27;601.843; (2017);6.039,9;99,6 
+28;Eure-et-Loir;;Centre-Val de Loire;Chartres;FR-28;433.233; (2017);5.880,0;73,7 
+29;Finistère;;Bretagne;Quimper;FR-29;909.028; (2017);6.733,0;135 
+30;Gard;;Occitanie;Nîmes;FR-30;744.178; (2017);5.852,8;127,1 
+31;Haute-Garonne;;Occitanie;Toulouse;FR-31;1.362.672; (2017);6.309,3;216 
+32;Gers;;Occitanie;Auch;FR-32;191.091; (2017);6.256,8;30,5 
+33;Gironde;;Nouvelle-Aquitaine;Bordeaux;FR-33;1.583.384; (2017);9.975,6;158,7 
+34;Hérault;;Occitanie;Montpellier;FR-34;1.144.892; (2017);6.101,0;187,7 
+35;Ille-et-Vilaine;;Bretagne;Rennes;FR-35;1.060.199; (2017);6.774,7;156,5 
+36;Indre;;Centre-Val de Loire;Châteauroux;FR-36;222.232; (2017);6.790,6;32,7 
+37;Indre-et-Loire;;Centre-Val de Loire;Tours;FR-37;606.511; (2017);6.126,7;99 
+38;Isère;;Auvergne-Rhône-Alpes;Grenoble;FR-38;1.258.722; (2017);7.431,5;169,4 
+39;Jura;;Bourgogne-Franche-Comté;Lons-le-Saunier;FR-39;260.188; (2017);4.999,2;52 
+40;Landes;;Nouvelle-Aquitaine;Mont-de-Marsan;FR-40;407.444; (2017);9.242,6;44,1 
+41;Loir-et-Cher;;Centre-Val de Loire;Blois;FR-41;331.915; (2017);6.343,4;52,3 
+42;Loire;;Auvergne-Rhône-Alpes;Saint-Étienne;FR-42;762.941; (2017);4.780,6;159,6 
+43;Haute-Loire;;Auvergne-Rhône-Alpes;Le Puy-en-Velay;FR-43;227.283; (2017);4.977,1;45,7 
+44;Loire-Atlantique;;Pays de la Loire;Nantes;FR-44;1.394.909; (2017);6.815,4;204,7 
+45;Loiret;;Centre-Val de Loire;Orléans;FR-45;678.105; (2017);6.775,2;100,1 
+46;Lot;;Occitanie;Cahors;FR-46;173.828; (2017);5.216,5;33,3 
+47;Lot-et-Garonne;;Nouvelle-Aquitaine;Agen;FR-47;332.842; (2017);5.360,9;62,1 
+48;Lozère;;Occitanie;Mende;FR-48;76.601; (2017);5.166,9;14,8 
+49;Maine-et-Loire;;Pays de la Loire;Angers;FR-49;813.493; (2017);7.165,6;113,5 
+50;Manche;;Normandie;Saint-Lô;FR-50;496.883; (2017);5.938,0;83,7 
+51;Marne;;Grand Est;Châlons-en-Champagne;FR-51;568.895; (2017);8.161,6;69,7 
+52;Haute-Marne;;Grand Est;Chaumont;FR-52;175.640; (2017);6.210,6;28,3 
+53;Mayenne;;Pays de la Loire;Laval;FR-53;307.445; (2017);5.175,2;59,4 
+54;Meurthe-et-Moselle;;Grand Est;Nancy;FR-54;733.481; (2017);5.245,9;139,8 
+55;Meuse;;Grand Est;Bar-le-Duc;FR-55;187.187; (2017);6.211,4;30,1 
+56;Morbihan;;Bretagne;Vannes;FR-56;750.863; (2017);6.822,6;110,1 
+57;Moselle;;Grand Est;Metz;FR-57;1.043.522; (2017);6.216,3;167,9 
+58;Nièvre;;Bourgogne-Franche-Comté;Nevers;FR-58;207.182; (2017);6.816,7;30,4 
+59;Nord;;Hauts-de-France;Lille;FR-59;2.604.361; (2017);5.742,8;453,5 
+60;Oise;;Hauts-de-France;Beauvais;FR-60;824.503; (2017);5.860,2;140,7 
+61;Orne;;Normandie;Alençon;FR-61;283.372; (2017);6.103,4;46,4 
+62;Pas-de-Calais;;Hauts-de-France;Arras;FR-62;1.468.018; (2017);6.671,4;220 
+63;Puy-de-Dôme;;Auvergne-Rhône-Alpes;Clermont-Ferrand;FR-63;653.742; (2017);7.969,7;82 
+64;Pyrénées-Atlantiques;;Nouvelle-Aquitaine;Pau;FR-64;677.309; (2017);7.644,8;88,6 
+65;Hautes-Pyrénées;;Occitanie;Tarbes;FR-65;228.530; (2017);4.464,0;51,2 
+66;Pyrénées-Orientales;;Occitanie;Perpignan;FR-66;474.452; (2017);4.116,0;115,3 
+67;Bas-Rhin;;Grand Est;Straßburg;FR-67;1.125.559; (2017);4.755,0;236,7 
+68;Haut-Rhin;;Grand Est;Colmar;FR-68;764.030; (2017);3.525,2;216,7 
+69D;Rhône;;Auvergne-Rhône-Alpes;Lyon;FR-69;457.392; (2017);2.715,0;168,5 
+69M;Métropole de Lyon;;Auvergne-Rhône-Alpes;Lyon;FR-69;1.385.927; (2017);533,7;2.596,8 
+70;Haute-Saône;;Bourgogne-Franche-Comté;Vesoul;FR-70;236.659; (2017);5.360,1;44,2 
+71;Saône-et-Loire;;Bourgogne-Franche-Comté;Mâcon;FR-71;553.595; (2017);8.574,7;64,6 
+72;Sarthe;;Pays de la Loire;Le Mans;FR-72;566.506; (2017);6.206,0;91,3 
+73;Savoie;;Auvergne-Rhône-Alpes;Chambéry;FR-73;431.174; (2017);6.028,3;71,5 
+74;Haute-Savoie;;Auvergne-Rhône-Alpes;Annecy;FR-74;807.360; (2017);4.387,8;184 
+75;Paris;;Île-de-France;Paris;FR-75;2.187.526; (2017);105,4;20.754,5 
+76;Seine-Maritime;;Normandie;Rouen;FR-76;1.254.378; (2017);6.277,6;199,8 
+77;Seine-et-Marne;;Île-de-France;Melun;FR-77;1.403.997; (2017);5.915,3;237,4 
+78;Yvelines;;Île-de-France;Versailles;FR-78;1.438.266; (2017);2.284,4;629,6 
+79;Deux-Sèvres;;Nouvelle-Aquitaine;Niort;FR-79;374.351; (2017);5.999,4;62,4 
+80;Somme;;Hauts-de-France;Amiens;FR-80;572.443; (2017);6.170,1;92,8 
+81;Tarn;;Occitanie;Albi;FR-81;387.890; (2017);5.757,9;67,4 
+82;Tarn-et-Garonne;;Occitanie;Montauban;FR-82;258.349; (2017);3.718,3;69,5 
+83;Var;;Provence-Alpes-Côte d’Azur;Toulon;FR-83;1.058.740; (2017);5.972,5;177,3 
+84;Vaucluse;;Provence-Alpes-Côte d’Azur;Avignon;FR-84;559.479; (2017);3.567,3;156,8 
+85;Vendée;;Pays de la Loire;La Roche-sur-Yon;FR-85;675.247; (2017);6.719,6;100,5 
+86;Vienne;;Nouvelle-Aquitaine;Poitiers;FR-86;436.876; (2017);6.990,4;62,5 
+87;Haute-Vienne;;Nouvelle-Aquitaine;Limoges;FR-87;374.426; (2017);5.520,1;67,8 
+88;Vosges;;Grand Est;Épinal;FR-88;367.673; (2017);5.873,8;62,6 
+89;Yonne;;Bourgogne-Franche-Comté;Auxerre;FR-89;338.291; (2017);7.427,4;45,5 
+90;Territoire de Belfort;;Bourgogne-Franche-Comté;Belfort;FR-90;142.622; (2017);609,4;234 
+91;Essonne;;Île-de-France;Évry;FR-91;1.296.130; (2017);1.804,4;718,3 
+92;Hauts-de-Seine;;Île-de-France;Nanterre;FR-92;1.609.306; (2017);175,6;9.164,6 
+93;Seine-Saint-Denis;;Île-de-France;Bobigny;FR-93;1.623.111; (2017);236,2;6.871,8 
+94;Val-de-Marne;;Île-de-France;Créteil;FR-94;1.387.926; (2017);245,0;5.665 
+95;Val-d’Oise;;Île-de-France;Cergy / Pontoise;FR-95;1.228.618; (2017);1.245,9;986,1 
+971;Guadeloupe;;Guadeloupe;Basse-Terre;FR-GP;390.253; (2017);1.628,4;239,7 
+972;Martinique;;Martinique;Fort-de-France;FR-MQ;372.594; (2017);1.128,0;330,3 
+973;Guyane;;Guyane;Cayenne;FR-GF;268.700; (2017);83.533,9;3,2 
+974;Réunion;;Réunion;Saint-Denis;FR-RE;853.659; (2017);2.503,7;341 
+976;Mayotte;;Mayotte;Mamoudzou;FR-YT;256.518; (2017);374;685,9 
+975;Saint-Pierre-et-Miquelon;;Saint-Pierre-et-Miquelon;
+977;Saint-Barthélemy;;Saint-Barthélemy;
+978;Saint-Martin;;Saint-Martin;
+69;Rhône;;Auvergne-Rhône-Alpes;Lyon;FR-69;1.835.903;(2017);3.248,7;567,4
