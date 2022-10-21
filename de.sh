@@ -1,17 +1,17 @@
-age=$(( (`date +%s` - `stat -L --format %Y RKI_COVID19.csv`) > (12*60*60) ))
+age=$(( (`date +%s` - `stat -L --format %Y RKI_COVID19.csv`) > (20*60*60) ))
 if [ $age -eq 0 ]
 then
-	echo "file 'RKI_COVID19.csv' is less than 12 hours old -> no download"
+	echo "file 'RKI_COVID19.csv' is less than 20 hours old -> no download"
 else
 	wget https://www.arcgis.com/sharing/rest/content/items/f10774f1c63e40168479a1feb6c7ca74/data
 	mv data RKI_COVID19.csv
 	./csv2tsv.py < RKI_COVID19.csv > RKI_COVID19.tsv
 fi
 
-age=$(( (`date +%s` - `stat -L --format %Y Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv`) > (12*60*60) ))
+age=$(( (`date +%s` - `stat -L --format %Y Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv`) > (20*60*60) ))
 if [ $age -eq 0 ]
 then
-	echo "file 'Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv' is less than 12 hours old -> no download"
+	echo "file 'Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv' is less than 20 hours old -> no download"
 else
 	rm Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv
 	wget https://github.com/robert-koch-institut/COVID-19-Impfungen_in_Deutschland/raw/master/Aktuell_Deutschland_Landkreise_COVID-19-Impfungen.csv
